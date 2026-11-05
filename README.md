@@ -1,34 +1,33 @@
-# Student Performance Prediction using Logistic Regression
+# Student Data Classification using Logistic Regression
 
 ## Project Overview
-This is a small machine learning practice project using Logistic Regression to understand binary classification with student data.
+This is a small Machine Learning practice project using Logistic Regression and student data.
 
-The project focuses on preparing the data, training a Logistic Regression model, and evaluating its predictions.
+The objective is to understand how Logistic Regression works and how to build a basic classification model.
 
-## Technologies Used
+## Tools and Libraries
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Scikit-learn
 
 ## Project Workflow
-1. Data Loading
-2. Data Understanding
-3. Data Preprocessing
-4. Exploratory Data Analysis
-5. Model Building using Logistic Regression
-6. Model Prediction
-7. Model Evaluation
+1. Load the dataset
+2. Understand the data
+3. Prepare the data
+4. Split data into training and testing sets
+5. Train the Logistic Regression model
+6. Make predictions
+7. Evaluate model performance
 
 ## Algorithm Used
-**Logistic Regression** – A supervised machine learning algorithm commonly used for binary classification.
+**Logistic Regression** – A supervised machine learning algorithm used for classification problems.
 
 ## Learning Outcomes
 - Understanding Logistic Regression
 - Practising data preprocessing
 - Training a classification model
+- Making predictions
 - Evaluating model performance
 
 ## Project Type
